@@ -1,8 +1,10 @@
 # Private-Policy
-Effective Date: August 10, 2023  This Privacy Policy is intended to inform the users of King of Average ("We", "Us", or "Our") about the types of information that we do NOT collect, use, share, or store. Your privacy is of the utmost importance to us.
+Effective Date: August 10, 2023  This Privacy Policy is intended to inform the users of Tammy Jadus Team Apps ("We", "Us", or "Our") about the types of information that we do NOT collect, use, share, or store. Your privacy is of the utmost importance to us.
+
 1. Personal Information We DO NOT Collect
 
 We do NOT collect, transmit, or store any personal data including, but not limited to, your name, address, email, location, photos, videos, drawings, the ability to chat, other personal data, or persistent identifiers used in combination with any of the above.
+
 2. User Profiles
 
 We do NOT build user profiles, and we do NOT use information from Contacts, Photos, or other APIs that access user data to build a contact database for our own use or for sale/distribution to third parties.
@@ -34,9 +36,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about our Privacy Policy, please contact us at tammyjadus1@gmail.com.
 
-By using King of Average, you are agreeing to the terms set forth in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use King of Average.
+By using Tammy Jadus Team Apps, you are agreeing to the terms set forth in this Privacy Policy. If you do not agree with this Privacy Policy, please do not use Tammy Jadus Team Apps.
 
-Thank you for trusting King of Average. We are committed to safeguarding your privacy and ensuring a secure and enjoyable experience.
+Thank you for trusting Tammy Jadus Team Apps. We are committed to safeguarding your privacy and ensuring a secure and enjoyable experience.
 
 
 
